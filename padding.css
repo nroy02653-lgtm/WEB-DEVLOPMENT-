@@ -1,0 +1,15 @@
+.op{
+  
+    background: grey;
+    
+    width: 400px;
+    margin-top: 80px;
+    margin-left:auto ;
+    margin-right: auto;
+    padding: 40px;
+    border:6px solid yellowgreen;
+    border-radius: 40%;
+}
+body{
+    background-color: lightcyan;
+}
